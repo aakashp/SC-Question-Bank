@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1407866287 source:g:\7th sem\graph_adjacency_list\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1407950082 source:g:\7th sem\graph_adjacency_list\newfile.c
+	<stdio.h>
+	<stdlib.h>
+
